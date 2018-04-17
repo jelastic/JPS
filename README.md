@@ -1,1 +1,1 @@
-The project was moved to https://github.com/jelastic-jps
+The rich collection of JPS packages is available at https://github.com/jelastic-jps
