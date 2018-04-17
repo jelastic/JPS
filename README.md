@@ -1,1 +1,1 @@
-# The project was moved to https://github.com/jelastic-jps
+The project was moved to https://github.com/jelastic-jps
